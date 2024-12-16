@@ -26,6 +26,9 @@
 git clone https://github.com/Mainichi0501/realsense_depth/blob/main/hand_tracking.py
 ```
 ## 実行
+```
+python3 hand_tracking.py
+```
 このプログラムを実行すると、RGB 映像が表示され、手のランドマーク座標に対応する奥行きデータがコンソールに出力されます。
 
 # ライセンス
