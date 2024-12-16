@@ -15,7 +15,7 @@ realsenseで手の深度の値を検出。書き換えれば中央だけや顔�
 # このプログラムの使い方
 ## インストール
 ```
-git clone 
+git clone https://github.com/Mainichi0501/realsense_depth/blob/main/hand_tracking.py
 ```
 ## 実行
 このプログラムを実行すると、RGB 映像が表示され、手のランドマーク座標に対応する奥行きデータがコンソールに出力されます。
