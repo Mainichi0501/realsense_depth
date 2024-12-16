@@ -29,7 +29,7 @@ git clone https://github.com/Mainichi0501/realsense_depth/blob/main/hand_trackin
 このプログラムを実行すると、RGB 映像が表示され、手のランドマーク座標に対応する奥行きデータがコンソールに出力されます。
 
 # ライセンス
-(C) 2023 Mainichi
+(C) 2024 Mainichi
 
 このプログラムは、[Apache License 2.0](./LICENSE) に基づいて公開されています。
 
